@@ -21,7 +21,7 @@ the app provides user two functanalities
 
 ### directory structure
  /admitkard-questionbank-backend :-code for backend part
- /admitkard-questionbank-frontend :-code for frontend part
+ /admitkard-questionbank-clint :-code for frontend part
 
  ### technologies used
  1.reactjs(frontend)
